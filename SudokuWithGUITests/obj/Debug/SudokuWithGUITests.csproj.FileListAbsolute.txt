@@ -1,0 +1,17 @@
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\SudokuWithGUITests.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\SudokuWithGUITests.pdb
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\SudokuWithGUI.exe
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\SudokuWithGUI.pdb
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\SudokuWithGUI.exe.config
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\obj\Debug\SudokuWithGUITests.csprojAssemblyReference.cache
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\obj\Debug\SudokuWithGUITests.csproj.CoreCompileInputs.cache
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\obj\Debug\SudokuWithGUITests.csproj.CopyComplete
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\obj\Debug\SudokuWithGUITests.dll
+C:\Users\anati\Documents\cs5700\homework-5\acoelhocs5700hw5\SudokuWithGUI\SudokuWithGUITests\obj\Debug\SudokuWithGUITests.pdb

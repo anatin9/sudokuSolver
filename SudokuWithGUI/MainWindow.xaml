@@ -1,0 +1,25 @@
+﻿<Window x:Class="SudokuWithGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SudokuWithGUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="585.993" Width="797.453">
+    <Grid Margin="0,0,3.667,3.667">
+        <Menu HorizontalAlignment="Left" Height="26" VerticalAlignment="Top">
+            <MenuItem HorizontalAlignment="Left" Name="Files" Height="26" Width="38" Header="File" Background="LimeGreen">
+                <MenuItem HorizontalAlignment="Left" Name="OpenFile" Click="OpenFiles" Header="Open"/>
+                <MenuItem HorizontalAlignment="Left" Name="SaveFile" Click="SaveFiles" Header="Save"/>
+            </MenuItem>
+
+            <MenuItem Name="Puzzle" Height="26" Width="51" Header="Puzzle" Background="LimeGreen">
+                <MenuItem Name="Check" Header="Check" Click="Check_Puzzle"/>
+                <MenuItem Name="Solve" Header="Solve" Click="SolvePuzzle"/>
+            </MenuItem>
+            <MenuItem Name="Timer" Height="26" Width="85" Header="Start / Pause" Click="TimerBtn" Background="LimeGreen"/>
+        </Menu>
+        <Grid Name="sudokuGrid" Margin="0,27,0,40" />
+        <Grid Name ="cellChoices" Height="37" Margin="0,0,0,0" VerticalAlignment="Bottom" Background="Beige"/>
+    </Grid>
+</Window>
