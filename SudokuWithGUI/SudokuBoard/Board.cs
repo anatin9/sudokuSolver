@@ -15,6 +15,7 @@ namespace Sudoku
         public Cell[,] board { get; set; }
         public bool valid { get; set; }
         public string reason { get; set; }
+        private int[] validSizes = { 4, 9, 16, 25, 36 };
 
         /*
          * default constructor for the board.
@@ -91,12 +92,14 @@ namespace Sudoku
          */
         private void CheckIfInputValid()
         {
+            // Check if provided characters porperly fill n spaces
             if (n != vals.Length)
             {
                 valid = false;
                 reason = "Invalid dimensions";
             }
-            if (n != 4 && n != 9 && n != 16 && n != 25 && n != 36)
+            // Check if N is a supported shape
+            if (!validSizes.Contains(n))
             {
                 valid = false;
                 reason = "Unsupported size";
